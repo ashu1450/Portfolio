@@ -203,6 +203,7 @@ section {
 .header-content .right-header p {
   margin: 1.5rem 0;
   line-height: 2rem;
+  text-align: justify;
 }
 
 /*About*/
@@ -263,6 +264,7 @@ section {
   line-height: 2rem;
   padding: 1rem;
   color: var(--color-grey-1);
+  text-align: justify;
 }
 .about-container .left-about h4 {
   font-size: 2rem;
@@ -539,6 +541,7 @@ section {
 .contact-content-con .left-contact p {
   margin: 1rem 0;
   line-height: 2rem;
+  text-align: justify;
 }
 .contact-content-con .left-contact .contact-info .contact-item {
   display: flex;
